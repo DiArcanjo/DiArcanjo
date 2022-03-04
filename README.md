@@ -3,7 +3,6 @@
 - 💻 I’m Sotware Develper
 - 👩‍💻 I'm Working with ChatBot, Java, Rasa and Watson.
 - 🚀 I’m learning Javascript, React.js, React.navite and Node.js.
-- 🎮 I'm a Guardian in Destiny 2 - Nickname: DiAngel#9506
 
 > "You are never too old to set another goal or to dream new dream." ― C.S. Lewis
 
