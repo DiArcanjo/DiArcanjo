@@ -15,18 +15,9 @@
 ## 🛠️ Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-6D28D9?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-## 📊 Contribution Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DiArcanjo&theme=github-compact&bg_color=0d1117&color=7c3aed&line=7c3aed&point=ffffff&hide_border=true)](https://github.com/DiArcanjo)
-
----
 
 ## 🐍 Contribution Snake
 
